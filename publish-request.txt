@@ -1,1 +1,1 @@
-Publish alpha 0.6.0 from exact main commit: SILAM comparison, clearer allergen selection and source improvements.
+Publish alpha 0.7.0: tabs Today/Forecast/Settings, device location, clearer SILAM diagnostics and shorter home screen.
