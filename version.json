@@ -1,13 +1,11 @@
 {
-  "versionCode": 40,
-  "versionName": "0.4.0",
+  "versionCode": 50,
+  "versionName": "0.5.0",
   "apkUrl": "https://raw.githubusercontent.com/azigiwowk/pollen-russia-releases/main/pollen-russia.apk",
-  "sha256": "c92d4ca25b4bab4d4b4cd9dfe195ae29abe58a4f8ae89a78f9f1cc86c96a303d",
+  "sha256": "8540dccdc5398ad1848586245012f06b1f1158a65f00b0bd1bf928e001d43f83",
+  "sourceSha": "1684660d985d9a0e75a96c00db51376244d40c91",
   "notes": [
-    "Добавлены даты и «Сегодня / Завтра» в прогнозе на 24 часа",
-    "Добавлены «Мои аллергены» с сохранением выбора",
-    "Добавлен прогноз по дням",
-    "Карточки аллергенов стали компактнее",
-    "Добавлен умный итог на ближайшие сутки"
+    "Тестовая версия 0.5.0",
+    "APK и номер версии проверены по одному финальному коммиту"
   ]
 }
