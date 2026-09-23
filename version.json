@@ -1,11 +1,10 @@
 {
   "versionCode": 20,
   "versionName": "0.2.0",
-  "apkUrl": "",
-  "sha256": "",
+  "apkUrl": "https://raw.githubusercontent.com/azigiwowk/pollen-russia-releases/main/pollen-russia.apk",
+  "sha256": "30e1bf56470bbcafe41f34fa2a6ca588c04276b2d918d03a6f2fb70c1b397081",
   "notes": [
-    "Добавлена проверка обновлений из приложения",
-    "Исправлено наложение интерфейса на системную строку HyperOS",
-    "Время обновления теперь показывается в нормальном формате"
+    "Тестовая версия 0.2.0",
+    "Обновление опубликовано автоматически из последней успешной Android-сборки"
   ]
 }
