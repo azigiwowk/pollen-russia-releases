@@ -1,1 +1,1 @@
-Publish alpha 0.3.0: redesigned home, city selection, 24-hour pollen forecast.
+Publish alpha 0.4.0: dates in hourly forecast, My Allergens, compact cards, daily forecast and smart insight.
