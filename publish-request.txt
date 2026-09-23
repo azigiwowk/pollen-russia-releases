@@ -1,1 +1,1 @@
-Ready for first alpha publish after SOURCE_REPO_PAT is configured.
+Publish alpha 0.2.1 from latest successful Android build.
