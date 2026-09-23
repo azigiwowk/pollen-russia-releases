@@ -1,1 +1,1 @@
-Publish alpha 0.4.0: dates in hourly forecast, My Allergens, compact cards, daily forecast and smart insight.
+Publish alpha 0.5.0 from exact main commit: updater fix, clear allergen selection, exact dates, 24-hour highlights.
