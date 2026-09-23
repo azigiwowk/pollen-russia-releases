@@ -1,1 +1,1 @@
-Publish alpha 0.2.1 from latest successful Android build.
+Publish alpha 0.3.0: redesigned home, city selection, 24-hour pollen forecast.
