@@ -1,1 +1,1 @@
-Publish 0.9.5: show every allergen selected in settings on Today, clarify that Forecast is a combined personal forecast across selected allergens, rename navigation to My forecast, clarify hourly/daily semantics, and show the actual app version in Settings.
+Publish 0.9.6: diary now separates overall well-being from suspected pollen triggers, allows choosing multiple suspected allergens or Not sure, stores attribution with each diary entry, preserves existing diary data through Room migration, and shows the user's attribution in history.
