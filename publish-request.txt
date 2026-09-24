@@ -1,1 +1,1 @@
-Publish stage 2 checkpoint 0.9.2: allergen detail pages, 24h and 5-day charts, seasonal reference cards, unified severity scale, and per-allergen notification preferences.
+Publish stage 3 checkpoint 0.9.3: morning/day/evening summaries, Open-Meteo weather context, 5-day pollen horizon, chart wording polish, and corrected Russian notification grammar.
