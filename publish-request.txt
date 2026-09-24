@@ -1,9 +1,11 @@
-Publish Аллергофон 0.12.0 from source SHA 815f6427e0ad86e108a14b7f36f7f505b1dd0be5.
+Publish Аллергофон 0.13.0 from source SHA 49fe5935cd520a8cc8f95568214302d6a97daf57.
 
 Changes:
-- Today 2.0 daily focus: current background, 24-hour peak and calm 3-hour window;
-- quick navigation from Today to diary and My Forecast;
-- diary 7-day dynamics using the latest entry for each day;
-- history filters by 7/30 days/all time and wellbeing;
-- full old diary history remains available by default;
-- no Room migration and no pollen-scale changes.
+- allergen-specific pollen levels for alder, birch, grass, mugwort and ragweed;
+- dominant allergen selected by relative calibrated level instead of raw grains/m³;
+- Today, My Forecast, day parts, daily peaks, diary lead allergen, CAMS/SILAM comparison and notifications use the calibrated scale;
+- notification rise floors account for allergen-specific season reference values;
+- allergen detail screen explains its own scale;
+- legacy universal scale removed;
+- regression unit tests added and run before every APK build;
+- diary deletion confirmation and compact 7-day summary.
