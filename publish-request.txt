@@ -1,1 +1,1 @@
-Publish 0.9.6: diary now separates overall well-being from suspected pollen triggers, allows choosing multiple suspected allergens or Not sure, stores attribution with each diary entry, preserves existing diary data through Room migration, and shows the user's attribution in history.
+Publish 0.10.0: rebrand to Аллергофон, minimalist adaptive launcher icon, animated two-mode splash with slogan «Спокойный прогноз на каждый день», first-run onboarding for place/allergens/notifications, persistent light/dark theme switch, and dark-theme UI polish.
