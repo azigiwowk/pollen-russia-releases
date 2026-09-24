@@ -1,8 +1,12 @@
-Publish 0.10.3 visual fix from source SHA 7c7ff351eb2a3e17af394f010c1887c7aabd2844.
+Publish Аллергофон 0.11.0 from source main SHA 9fe563c597014770ae16efbea95e99aa22bc4ab9.
 
-Changes:
-- crisp Compose/Canvas splash without stretched raster artwork;
-- adaptive launcher icon reduced into a safer mask area;
-- Android 13+ monochrome icon added;
-- dark-theme surfaces/dividers fixed, including “Что важно в ближайшие сутки”;
-- system-bar contrast and startup transparency polished.
+Release focus: usefulness and reliability.
+
+- five-day selectable forecast with day-part details;
+- Today 24-hour peak and calm-window guidance;
+- local CAMS fallback cache up to 12 hours;
+- diary observations and careful symptom/background comparison;
+- notification allergen controls, sensitivity and quiet hours;
+- improved CAMS/SILAM comparison and local technical log;
+- profile-ready settings architecture;
+- dark-theme splash.
