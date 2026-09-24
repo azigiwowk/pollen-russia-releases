@@ -1,14 +1,11 @@
 {
-  "versionCode": 70,
-  "versionName": "0.7.0",
+  "versionCode": 80,
+  "versionName": "0.8.0",
   "apkUrl": "https://raw.githubusercontent.com/azigiwowk/pollen-russia-releases/main/pollen-russia.apk",
-  "sha256": "66f08388e8c829bfd3d9afabc3eebc841c33d38e628e6a3fa60c493e84515908",
-  "sourceSha": "a07d73c2effa765ffc1d6f8c60272b18e834011d",
+  "sha256": "c27416c2ba16fdf4938680bb409e2a92844fc87c3ddeefac62aa7c1afe80b06c",
+  "sourceSha": "9ead7fe63da0f7cc75491b9b51ce5aeeefb8984f",
   "notes": [
-    "Главный экран разделён на вкладки «Сегодня», «Прогноз» и «Настройки»",
-    "Добавлено определение текущего местоположения с разрешением Android",
-    "Выбор города и аллергенов перенесён в настройки, главный экран стал короче",
-    "Прогноз на 24 часа и по дням вынесен в отдельную вкладку",
-    "Уточнена диагностика SILAM: для Москвы текущий оперативный hires-поток не даёт покрытия"
+    "Тестовая версия 0.8.0",
+    "APK и номер версии проверены по одному финальному коммиту"
   ]
 }
