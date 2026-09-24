@@ -1,14 +1,11 @@
 {
-  "versionCode": 91,
-  "versionName": "0.9.1",
+  "versionCode": 92,
+  "versionName": "0.9.2",
   "apkUrl": "https://raw.githubusercontent.com/azigiwowk/pollen-russia-releases/main/pollen-russia.apk",
-  "sha256": "b9e2796e3b9608f4b738a97d6ccb662c2c0c7317b581b035a3907d11883f19ac",
-  "sourceSha": "389d7a9fbc43b4209d54b79377d94f84f30609f2",
+  "sha256": "101fb43b001b8daab5ed37ff1f34bd57b1e07c4a0187d8176da91fd814030765",
+  "sourceSha": "c054212498bbabf8e7c99cdacc24873c20685f8f",
   "notes": [
-    "Этап 1 подготовки v1.0: полностью переразложена UI-архитектура без потери рабочих функций",
-    "Добавлена навигация из четырёх разделов: Сегодня, Прогноз, Дневник и Настройки",
-    "Временные V4/V6/V7/V9-экраны удалены и заменены понятной структурой app/today/forecast/allergen/diary/settings/location/components/theme",
-    "Карточки аллергенов на главном экране теперь открывают отдельный экран аллергена",
-    "Добавлены нормальные Material-иконки нижней навигации; выбор места и настройки вынесены в отдельные компоненты"
+    "Тестовая версия 0.9.2",
+    "APK и номер версии проверены по одному финальному коммиту"
   ]
 }
