@@ -1,1 +1,1 @@
-Publish alpha 0.7.0: tabs Today/Forecast/Settings, device location, clearer SILAM diagnostics and shorter home screen.
+Publish alpha 0.8.0: place search for Moscow region, reverse location naming, clearer allergen settings and compact source status.
