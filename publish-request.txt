@@ -1,12 +1,8 @@
-Publish Аллергофон 0.11.0 from source main SHA 9fe563c597014770ae16efbea95e99aa22bc4ab9.
+Publish Аллергофон 0.11.1 UX polish from source SHA e75766c27810ffffdf6e06b6b07186dde74fd082.
 
-Release focus: usefulness and reliability.
-
-- five-day selectable forecast with day-part details;
-- Today 24-hour peak and calm-window guidance;
-- local CAMS fallback cache up to 12 hours;
-- diary observations and careful symptom/background comparison;
-- notification allergen controls, sensitivity and quiet hours;
-- improved CAMS/SILAM comparison and local technical log;
-- profile-ready settings architecture;
-- dark-theme splash.
+Changes:
+- replace heavy forecast explanation with compact contextual info sheet;
+- add contextual help for diary observations, CAMS/SILAM comparison and notification sensitivity;
+- improve the five-day no-data state;
+- keep notification sensitivity labels on one line;
+- no forecast calculation changes.
