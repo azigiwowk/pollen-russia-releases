@@ -1,1 +1,1 @@
-Publish architecture checkpoint 0.9.1: semantic UI structure, four-tab navigation, Material icons, prepared allergen details route, extracted location/settings/screens, legacy V4/V6/V7/V9 UI removed.
+Publish stage 2 checkpoint 0.9.2: allergen detail pages, 24h and 5-day charts, seasonal reference cards, unified severity scale, and per-allergen notification preferences.
