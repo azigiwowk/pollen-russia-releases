@@ -1,1 +1,1 @@
-Publish alpha 0.8.0: place search for Moscow region, reverse location naming, clearer allergen settings and compact source status.
+Publish alpha 0.9.0: redesigned place picker, recent places, legacy place-name fix, and pollen rise notifications.
