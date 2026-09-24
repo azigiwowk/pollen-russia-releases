@@ -1,8 +1,9 @@
-Publish Аллергофон 0.11.1 UX polish from source SHA e75766c27810ffffdf6e06b6b07186dde74fd082.
+Publish Аллергофон 0.12.0 from source SHA 815f6427e0ad86e108a14b7f36f7f505b1dd0be5.
 
 Changes:
-- replace heavy forecast explanation with compact contextual info sheet;
-- add contextual help for diary observations, CAMS/SILAM comparison and notification sensitivity;
-- improve the five-day no-data state;
-- keep notification sensitivity labels on one line;
-- no forecast calculation changes.
+- Today 2.0 daily focus: current background, 24-hour peak and calm 3-hour window;
+- quick navigation from Today to diary and My Forecast;
+- diary 7-day dynamics using the latest entry for each day;
+- history filters by 7/30 days/all time and wellbeing;
+- full old diary history remains available by default;
+- no Room migration and no pollen-scale changes.
