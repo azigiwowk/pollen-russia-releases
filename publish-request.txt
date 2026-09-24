@@ -1,1 +1,1 @@
-Publish 0.10.1: fix the Аллергофон launch experience so the brand illustration is visible on every launch, make the first launch more atmospheric, refine the adaptive launcher icon toward the approved pollen/location/leaf concept, and remove the light system-bar strip in dark mode by drawing edge-to-edge with safe content insets.
+Publish 0.10.2: use the exact approved Аллергофон splash artwork on every launch, with a subtle fade/scale entrance and loading indicator. Keep the dark-mode system-bar fix from 0.10.1.
