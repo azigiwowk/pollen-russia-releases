@@ -1,1 +1,1 @@
-Publish alpha 0.9.0: redesigned place picker, recent places, legacy place-name fix, and pollen rise notifications.
+Publish architecture checkpoint 0.9.1: semantic UI structure, four-tab navigation, Material icons, prepared allergen details route, extracted location/settings/screens, legacy V4/V6/V7/V9 UI removed.
