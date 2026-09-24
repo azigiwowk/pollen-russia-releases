@@ -1,1 +1,8 @@
-Publish 0.10.2: use the exact approved Аллергофон splash artwork on every launch, with a subtle fade/scale entrance and loading indicator. Keep the dark-mode system-bar fix from 0.10.1.
+Publish 0.10.3 visual fix from source SHA 7c7ff351eb2a3e17af394f010c1887c7aabd2844.
+
+Changes:
+- crisp Compose/Canvas splash without stretched raster artwork;
+- adaptive launcher icon reduced into a safer mask area;
+- Android 13+ monochrome icon added;
+- dark-theme surfaces/dividers fixed, including “Что важно в ближайшие сутки”;
+- system-bar contrast and startup transparency polished.
