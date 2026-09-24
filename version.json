@@ -1,14 +1,11 @@
 {
-  "versionCode": 103,
-  "versionName": "0.10.3",
+  "versionCode": 110,
+  "versionName": "0.11.0",
   "apkUrl": "https://raw.githubusercontent.com/azigiwowk/pollen-russia-releases/main/pollen-russia.apk",
-  "sha256": "5dc0e3585e87fc7ff7e06f131ca4fdb8f111a5217cd9550ce8aa943856ef135f",
-  "sourceSha": "7c7ff351eb2a3e17af394f010c1887c7aabd2844",
+  "sha256": "23c5f9eefd9979c73dea990b15bd1dce1089b74ae95b3f40477ca7978b615832",
+  "sourceSha": "9fe563c597014770ae16efbea95e99aa22bc4ab9",
   "notes": [
-    "Визуальный fix release 0.10.3",
-    "Splash теперь рисуется в Compose/Canvas и не растягивает raster — фирменный знак и фон должны быть чёткими на экранах высокой плотности",
-    "Adaptive icon уменьшена внутри safe-area; добавлена monochrome icon для Android 13+",
-    "Исправлена тёмная тема блока «Что важно в ближайшие сутки», а также оставшиеся светлые divider/мини-карточки и графики",
-    "Уточнена работа status/navigation bars и нижней навигации в тёмной теме"
+    "Тестовая версия 0.11.0",
+    "APK и номер версии проверены по одному финальному коммиту"
   ]
 }
