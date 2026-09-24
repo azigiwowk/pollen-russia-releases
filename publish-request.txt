@@ -1,1 +1,1 @@
-Publish stage 4 checkpoint 0.9.4: working diary with Room storage, mood/symptom/comment entries, automatic pollen/weather/place context capture, history, delete action, level-colored clickable allergen cards, and plain-language allergen status card.
+Publish 0.9.5: show every allergen selected in settings on Today, clarify that Forecast is a combined personal forecast across selected allergens, rename navigation to My forecast, clarify hourly/daily semantics, and show the actual app version in Settings.
