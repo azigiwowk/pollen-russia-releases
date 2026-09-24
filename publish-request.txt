@@ -1,1 +1,1 @@
-Publish stage 3 checkpoint 0.9.3: morning/day/evening summaries, Open-Meteo weather context, 5-day pollen horizon, chart wording polish, and corrected Russian notification grammar.
+Publish stage 4 checkpoint 0.9.4: working diary with Room storage, mood/symptom/comment entries, automatic pollen/weather/place context capture, history, delete action, level-colored clickable allergen cards, and plain-language allergen status card.
