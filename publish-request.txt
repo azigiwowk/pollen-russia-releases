@@ -1,13 +1,10 @@
-Publish Аллергофон 0.17.0 from source SHA 21d6f2930db614940414e07d99efff30a78fd9f3.
+Publish Аллергофон 0.17.1 from source SHA f7291a904078da57816fb2343a631cde29b7674d.
 
 Changes:
-- Settings is now a short hub instead of one long mixed screen;
-- dedicated sections: Forecast & allergens, Diary, Appearance and About;
-- About explains what Аллергофон is, why it is useful and its main features;
-- data sources and privacy information moved into About;
-- app version and built-in updater moved into About;
-- developer: Роман Хорошев;
-- contact email: azigiwowk@yandex.ru with mail action;
-- long profile names are constrained in profile selector;
-- Android Back returns from a settings subsection to the Settings hub;
-- CI now cancels stale runs from the same branch to speed up future releases.
+- Android system Back / edge swipe on the individual allergen screen now returns to the previous screen instead of closing the app;
+- the in-app back arrow keeps the same behavior;
+- no other user-facing behavior changed;
+- versionName 0.17.1, versionCode 171.
+
+Validated source main workflow:
+- Android Debug APK run 36264256386 — success.
