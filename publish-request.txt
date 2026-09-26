@@ -1,10 +1,13 @@
-Publish Аллергофон 0.15.0 from source SHA 904537519cbed2f1b68a7d42e334791339effd31.
+Publish Аллергофон 0.16.0 from source SHA 868704f1085cbece708bf5f8b65a7aacca8fe5a8.
 
 Changes:
-- family profiles: «Я», взрослый, ребёнок and another family member;
-- each profile has separate allergens, pollen alerts, quiet hours, diary reminder settings and diary history;
-- legacy settings and diary entries remain in the default «Я» profile via Room migration;
-- profile selector is available on Today, My Forecast, Diary and Settings;
-- pollen and diary notifications identify and open the matching profile;
-- Today action buttons are visually aligned and both clearly clickable;
-- forecast location remains shared across family profiles in this release.
+- 30-day diary summary with recorded days, good days and symptom/bad days;
+- optional breakdown by the latest four 7-day periods;
+- top symptoms and allergens the user most often associated with symptoms;
+- profile rename UI and profile-aware settings wording;
+- in-app privacy/data disclosure;
+- privacy policy draft, beta checklist and current RuStore preparation notes;
+- new unit tests for 30-day statistics;
+- Android lint is now mandatory in CI before APK build;
+- existing notification-permission and API-level lint blockers fixed;
+- minor compiler-warning cleanup.
