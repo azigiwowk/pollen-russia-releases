@@ -1,13 +1,13 @@
-Publish Аллергофон 0.16.0 from source SHA 868704f1085cbece708bf5f8b65a7aacca8fe5a8.
+Publish Аллергофон 0.17.0 from source SHA 21d6f2930db614940414e07d99efff30a78fd9f3.
 
 Changes:
-- 30-day diary summary with recorded days, good days and symptom/bad days;
-- optional breakdown by the latest four 7-day periods;
-- top symptoms and allergens the user most often associated with symptoms;
-- profile rename UI and profile-aware settings wording;
-- in-app privacy/data disclosure;
-- privacy policy draft, beta checklist and current RuStore preparation notes;
-- new unit tests for 30-day statistics;
-- Android lint is now mandatory in CI before APK build;
-- existing notification-permission and API-level lint blockers fixed;
-- minor compiler-warning cleanup.
+- Settings is now a short hub instead of one long mixed screen;
+- dedicated sections: Forecast & allergens, Diary, Appearance and About;
+- About explains what Аллергофон is, why it is useful and its main features;
+- data sources and privacy information moved into About;
+- app version and built-in updater moved into About;
+- developer: Роман Хорошев;
+- contact email: azigiwowk@yandex.ru with mail action;
+- long profile names are constrained in profile selector;
+- Android Back returns from a settings subsection to the Settings hub;
+- CI now cancels stale runs from the same branch to speed up future releases.
