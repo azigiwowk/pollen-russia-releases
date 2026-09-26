@@ -1,11 +1,11 @@
 {
-  "versionCode": 150,
-  "versionName": "0.15.0",
+  "versionCode": 160,
+  "versionName": "0.16.0",
   "apkUrl": "https://raw.githubusercontent.com/azigiwowk/pollen-russia-releases/main/pollen-russia.apk",
-  "sha256": "3c2fc94dcb076c57736e1501af3e6e3b31fc6988b8e25b67c143f41f7875f772",
-  "sourceSha": "904537519cbed2f1b68a7d42e334791339effd31",
+  "sha256": "6e5a3326a9039b6c265f40f9d55f846a7e3495858a8eca661180182b07308b01",
+  "sourceSha": "868704f1085cbece708bf5f8b65a7aacca8fe5a8",
   "notes": [
-    "Тестовая версия 0.15.0",
+    "Тестовая версия 0.16.0",
     "APK и номер версии проверены по одному финальному коммиту"
   ]
 }
