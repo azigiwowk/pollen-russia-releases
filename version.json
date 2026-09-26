@@ -1,12 +1,11 @@
 {
-  "versionCode": 171,
-  "versionName": "0.17.1",
+  "versionCode": 181,
+  "versionName": "0.18.1",
   "apkUrl": "https://raw.githubusercontent.com/azigiwowk/pollen-russia-releases/main/pollen-russia.apk",
-  "sha256": "51029685d0f9f4a789d11994980a7831f8da4d19648d2649ff5bfcc9d6ccef4c",
-  "sourceSha": "f7291a904078da57816fb2343a631cde29b7674d",
+  "sha256": "934ce505dabe4e89c0a075b2a005301b0e805dda9d978f41a1342260ddaf13a1",
+  "sourceSha": "9edc8ddd2840dd63184d5dce59dce35c47e9d26a",
   "notes": [
-    "0.17.1: исправлена системная навигация на экране отдельного аллергена",
-    "Свайп назад и системная кнопка «Назад» теперь возвращают на предыдущий экран вместо закрытия приложения",
-    "Остальная логика 0.17.0 не менялась"
+    "Тестовая версия 0.18.1",
+    "APK и номер версии проверены по одному финальному коммиту"
   ]
 }
