@@ -1,10 +1,15 @@
-Publish Аллергофон 0.17.1 from source SHA f7291a904078da57816fb2343a631cde29b7674d.
+Publish Аллергофон 0.18.1 from source SHA 9edc8ddd2840dd63184d5dce59dce35c47e9d26a.
 
 Changes:
-- Android system Back / edge swipe on the individual allergen screen now returns to the previous screen instead of closing the app;
-- the in-app back arrow keeps the same behavior;
-- no other user-facing behavior changed;
-- versionName 0.17.1, versionCode 171.
+- «Мой прогноз 2.0»: сводка ближайших суток, Сегодня/Завтра и раскрытие ещё 3 дней;
+- выбор любого дня обновляет утро/день/вечер;
+- прямые карточки аллергенов и корректный Android Back;
+- 24-часовая лента;
+- тема «Как в системе»;
+- зелёная нижняя навигация;
+- корректное окно через полночь;
+- нулевой фон без дублирующих подписей;
+- versionName 0.18.1, versionCode 181.
 
 Validated source main workflow:
-- Android Debug APK run 36264256386 — success.
+- Android Debug APK run 36270320579 — success.
