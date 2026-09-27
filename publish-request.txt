@@ -1,12 +1,10 @@
-Publish Аллергофон 0.19.0 from source SHA e4c1c87565e03c5b9bc99c97e0df3a38002e3a3a.
+Publish Аллергофон 0.19.1 from source SHA f975752a4bdfe5b9b9ad9e59e19fbe035b644be6.
 
 Changes:
-- новый раздел «Состояние приложения»;
-- диагностика свежести прогноза, уведомлений Android, WorkManager, дневника и обновлений;
-- локальная фиксация последних успешных фоновых запусков;
-- ручная фоновая проверка и восстановление фоновых расписаний;
-- кнопка ⓘ с пояснением статусов и действий;
-- versionName 0.19.0, versionCode 190.
+- patch-release без функциональных изменений;
+- тот же код Beta & Надёжность, что в 0.19.0;
+- versionName 0.19.1, versionCode 191;
+- нужен более высокий versionCode, чтобы тестовая 0.19.0 увидела обновление.
 
 Validated source main workflow:
-- Android Debug APK run 36305139842 — success.
+- Android Debug APK run 36306854876 — success.
